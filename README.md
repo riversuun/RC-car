@@ -15,3 +15,4 @@ git clone https://github.com/jetsonworld/jetson-fan-ctl.git
 cd jetson-fan-ctl
 
 sudo sh install.sh
+![Screenshot from 2023-11-01 18-46-20](https://github.com/riversuun/RC-car/assets/128311480/10a2ff05-5cb5-4897-a754-d822f7576dcb)
